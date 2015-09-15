@@ -1,3 +1,5 @@
 src/*
 bin/*
 obj/*
+
+~src/.gitkeep
