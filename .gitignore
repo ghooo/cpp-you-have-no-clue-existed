@@ -1,5 +1,3 @@
-src/*
+src/*.cpp
 bin/*
 obj/*
-
-~src/.gitkeep
